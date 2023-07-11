@@ -1,0 +1,41 @@
+#aa {
+    font-family: arial;
+    color: red;
+    background-color: yellow;
+    border: 3px solid green;
+    text-decoration: overline;
+    border-radius: 10px;
+    width: 70%;
+    margin: 50px auto;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#bb {
+    font-family: arial;
+    color: blue;
+    background-color: white;
+    border: 3px solid red;
+    text-decoration: line-through;
+    border-radius: 22px;
+    width: 50%;
+    margin: 80px auto;
+    text-align: right;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#cc {
+    font-family: cursive;
+    color: yellow;
+    background-color: red;
+    border: 3px solid blue;
+    text-decoration: none;
+    border-radius: 5px;
+    width: 80%;
+    margin: 80px auto;
+    text-align: right;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
